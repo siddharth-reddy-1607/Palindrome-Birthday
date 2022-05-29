@@ -62,6 +62,7 @@ footer
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
     width: 100%;
+    padding:0.5rem;
 }
 
 footer div
@@ -73,8 +74,14 @@ footer div
 {
     *
     {
-        font-size: 16px;
+        font-size: 15px;
     }
+    image
+    {
+        max-width: 100px;
+        max-height:100px;
+    }
+
     footer div
     {
         font-size: 11px;
