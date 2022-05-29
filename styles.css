@@ -34,8 +34,8 @@ header
 
 img
 {
-    max-width: 300px;
-    max-height: 200px;
+    width: 300px;
+    height: 200px;
     padding: 1rem;
 }
 
@@ -62,7 +62,7 @@ footer
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
     width: 100%;
-    padding:0.5rem;
+    padding-top:0.5rem;
 }
 
 footer div
